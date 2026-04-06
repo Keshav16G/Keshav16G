@@ -23,14 +23,11 @@
   <hr style="border: 2px solid #BC13FE; border-radius: 5px;">
 </div>
 
-<!-- 
-  ✅ GIF FIX: GitHub auto-loops all .gif files in <img> tags — no extra attributes needed.
-  The GIF below will autoplay and loop continuously on GitHub.
-  If your GIF still doesn't show, verify this file exists in your repo:
-  https://github.com/Keshav16G/Keshav16G/blob/main/Tumblr_Image.gif
--->
+<!-- GIF: Autoplay & Loop enabled by default in GitHub -->
 <div align="center">
-  <img src="https://github.com/Keshav16G/Keshav16G/raw/main/Tumblr_Image.gif" width="100%" alt="Keshav's Profile GIF" />
+  <a href="https://github.com/Keshav16G">
+    <img src="https://github.com/Keshav16G/Keshav16G/raw/main/Tumblr_Image.gif" width="100%" alt="Keshav's Profile GIF - Click to visit GitHub" style="border-radius: 10px;" />
+  </a>
 </div>
 
 ---
@@ -77,11 +74,8 @@ Always Building & Learning
 
   <td width="50%" valign="top">
 
-<!-- 
-  ✅ STATS FIX: Added cache_seconds=1800 to reduce stale-cache failures.
-  Using the most stable public instance of github-readme-stats.
--->
-<img src="https://github-readme-stats.vercel.app/api?username=Keshav16G&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BC13FE&text_color=FFFFFF&icon_color=00F7FF&cache_seconds=1800&hide_border=true" width="100%" alt="GitHub Stats"/>
+<!-- STATS: Added count_private=true & include_all_commits=true for fuller data -->
+<img src="https://github-readme-stats.vercel.app/api?username=Keshav16G&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BC13FE&text_color=FFFFFF&icon_color=00F7FF&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
 
   </td>
   </tr>
@@ -167,21 +161,16 @@ Deep learning models for object detection and image classification with real-tim
 ### 📊 PLAYER STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshav16G&theme=tokyo-night&bg_color=0D1117&color=BC13FE&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshav16G&theme=tokyo-night&bg_color=0D1117&color=BC13FE&hide_border=true&point=BC13FE" width="100%" alt="Activity Graph"/>
 </p>
 
 <p align="center">
 
-<!-- 
-  ✅ STREAK FIX: streak-stats.demolab.com goes down often.
-  Using github-readme-streak-stats.herokuapp.com as a more stable fallback.
--->
-  <img src="https://streak-stats.demolab.com/?user=Keshav16G&theme=tokyonight&hide_border=true&background=0D1117&ring=BC13FE&stroke=BC13FE&fire=00F7FF&currStreakLabel=00F7FF&cache_seconds=1800" width="48%" alt="Streak Stats"/>
+<!-- STREAK STATS -->
+  <img src="https://streak-stats.demolab.com/?user=Keshav16G&theme=tokyonight&hide_border=false&background=0D1117&ring=BC13FE&stroke=BC13FE" width="48%" alt="Streak Stats"/>
 
-<!-- 
-  ✅ TOP LANGS FIX: Added cache_seconds + langs_count for better reliability.
--->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav16G&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&hide_border=true&cache_seconds=1800&langs_count=8" width="48%" alt="Top Languages"/>
+<!-- TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keshav16G&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=FFFFFF&title_color=00F7FF&card_width=300" width="48%" alt="Top Languages"/>
 
 </p>
 
@@ -189,12 +178,9 @@ Deep learning models for object detection and image classification with real-tim
 
 ### 🏆 ACHIEVEMENTS
 
-<!-- 
-  ✅ TROPHY FIX: Added no-bg=true and corrected parameter format.
-  Removed bg_color (not supported by this service) — use no-bg instead.
--->
+<!-- ACHIEVEMENTS/TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Keshav16G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Keshav16G&theme=tokyonight&no-bg=true&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
 </p>
 
 ---
