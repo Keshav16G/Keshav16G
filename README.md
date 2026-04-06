@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Keshav16G/Keshav16G/main/Tumblr_Image.gif" width="100%" alt="Keshav's Profile GIF" />
+  <img src="https://github.com/Keshav16G/Keshav16G/raw/main/Tumblr_Image.gif" width="100%" alt="Keshav's Profile GIF" />
 </div>
 
 ---
