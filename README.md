@@ -1,69 +1,211 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&width=435&lines=Hi+there!+I'm+Keshav;AI+Engineer;Building+Systems+that+Scale" alt="Typing SVG" />
+<div align="center">
+  <h1 style="font-size: 3em; color: #BC13FE; text-shadow: 0 0 10px #00F7FF;">
+    🎮 KESHAV GUPTA - AI ENGINEER 🚀
+  </h1>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BC13FE&center=true&vCenter=true&width=700&lines=PLAYER+1+READY;AI+ENGINEER+DETECTED;RAG+PIPELINES+DEPLOYED;BUILDING+THE+FUTURE;LLM+SPECIALIST" alt="Typing Animation" />
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/keshav-gupta-73368a364" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:keshav.23bcon0872@jecrcu.edu" target="_blank">
+      <img src="https://img.shields.io/badge/EMAIL-BC13FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+    </a>
+    <a href="https://github.com/Keshav16G" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-WHITE?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Keshav16G&color=BC13FE&style=for-the-badge&label=TOTAL+XP" alt="Profile Views" />
+  </p>
+
+  <hr style="border: 2px solid #BC13FE; border-radius: 5px;">
 </div>
-
-<p align="left">
-  <strong>AI Engineer | LLMs • RAG • Multimodal Architectures</strong><br>
-  <em>Engineering production-ready intelligent systems that bridge the gap between research and reality.</em>
-</p>
-
-<p align="left">
-<a href="https://linkedin.com/in/keshav-gupta-73368a364"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=00F7FF"></a>
-<a href="mailto:keshav.23bcon0872@jecrcu.edu"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=00F7FF"></a>
-<img src="https://visitcount.itsvg.in/api?id=Keshav16G&icon=5&color=12" alt="Views" height="20">
-</p>
-
----
-
-### ⚡ Status
-- 🔭 **Current Focus:** Engineering production-grade RAG pipelines with hybrid retrieval.
-- 🌱 **Learning:** Agentic AI orchestration and advanced system design for low-latency inference.
-- 👯 **Collaboration:** Open to high-impact AI infrastructure and open-source LLM tools.
-- 💬 **Ask Me About:** Vector DBs, LangChain, FastAPI, and why simple code beats complex hype.
-
----
-
-### 🛠️ Core Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,fastapi,django,pytorch,tensorflow,opencv,docker,kubernetes,postgres,mongodb,azure,gcp&theme=dark" />
-</p>
-
----
-
-### 📊 Performance Metrics
-<div align="left">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Keshav16G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="100%"/>
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav16G&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Keshav16G&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&stroke=00F7FF" width="100%" />
-</p>
-
----
-
-### 📈 Activity
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshav16G&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF" width="100%" />
-</p>
-
----
-
-### 🏆 Recognitions
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Keshav16G&theme=tokyonight&no-frame=true&margin-w=10&bg_color=0D1117" />
-</p>
-
-<br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117" />
+  <img src="https://i.pinimg.com/1200x/02/01/1e/02011ec8554277b8c70bf22fb192123c.jpg" width="100%" alt="Keshav's Profile GIF" />
+</div>
+
+---
+
+## 💡 ABOUT ME  
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  Passionate AI Engineer crafting intelligent systems that      ║
+║  bridge theory and production. Specializing in LLMs, RAG       ║
+║  pipelines, and autonomous agents.                            ║
+║                                                                ║
+║  🎯 Mission: Transform raw data into actionable intelligence  ║
+║  📚 Learning: Advanced LLM architectures & vector databases   ║
+║  ⚙️  Building: Enterprise-grade AI solutions at scale         ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### 📈 MISSION LOG
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+**🎯 Current Quest:**  
+Engineering production-grade RAG pipelines & LLM applications 🚀
+
+**🛠️ Skill Tree:**
+- Large Language Models & Prompt Engineering
+- Vector Databases & Semantic Search  
+- LangChain & LlamaIndex Frameworks
+- FastAPI & Django Backend Systems
+- MLOps & Model Deployment
+
+**🧠 Next Level:**  
+Agentic AI & Autonomous Systems Development
+
+**⚡ Status:**  
+Always Building & Learning
+
+  </td>
+
+  <td width="50%" valign="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=Keshav16G&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BC13FE&text_color=FFFFFF&icon_color=00F7FF" width="100%" alt="GitHub Stats"/>
+  </td>
+  </tr>
+</table>
+
+---
+
+### 🛡️ ARMORY (TECH STACK)
+
+**Core Languages:**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI/ML Frameworks:**
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Backend & Deployment:**
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Cloud & Databases:**
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🎯 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🤖 RAG Pipeline Engine
+Advanced retrieval-augmented generation system with vector embeddings and semantic search. Integrated with multiple LLM providers for production deployments.
+
+**Tech:** Python, LangChain, FastAPI, PostgreSQL, OpenAI API
+
+</td>
+<td width="50%">
+
+#### 🧠 LLM Fine-tuning Framework
+Framework for efficient fine-tuning and deployment of custom language models with LoRA optimization and quantization techniques.
+
+**Tech:** PyTorch, Hugging Face, ONNX, Azure ML
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 📊 Data Processing Pipeline
+High-performance ETL pipeline for processing large-scale datasets with automatic feature engineering and quality validation.
+
+**Tech:** Python, PySpark, Apache Airflow, Docker
+
+</td>
+<td width="50%">
+
+#### 🎮 Computer Vision System
+Deep learning models for object detection and image classification with real-time inference capabilities.
+
+**Tech:** PyTorch, OpenCV, TensorFlow, CUDA
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 PLAYER STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshav16G&theme=tokyo-night&bg_color=0D1117&color=BC13FE" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Keshav16G&theme=tokyonight&hide_border=true&background=0D1117&ring=BC13FE&stroke=BC13FE" width="48%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav16G&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Keshav16G&theme=tokyonight&no-frame=true&margin-w=10&bg_color=0D1117" alt="Trophies"/>
+</p>
+
+---
+
+### � GITHUB STATS NOTE
+
+> **GitHub Stats Loading Issues?** These are external services that sometimes experience delays:
+> - **Solution 1:** Hard refresh your page (Ctrl+Shift+R or Cmd+Shift+R)
+> - **Solution 2:** Clear browser cache and reload
+> - **Solution 3:** These services regenerate stats every 24 hours
+> - **Solution 4:** Ensure your GitHub profile has public repositories
+> - **Solution 5:** Visit directly: [GitHub Stats Demo](https://github.com/anuraghazra/github-readme-stats)
+>
+> **Alternative:** If badges persist in not loading, they are display-only enhancements - your profile content is what matters most!
+
+---
+
+### �💬 LET'S CONNECT
+
+<div align="center">
+
+I'm always interested in:
+- 🤝 Collaborating on AI/ML projects
+- 📖 Discussing LLM architectures & RAG systems
+- 🚀 Building scalable intelligent systems
+- 🧑‍🏫 Sharing knowledge & learning together
+
+**Feel free to reach out for:**
+- Technical discussions
+- Project collaborations
+- Mentorship opportunities
+- Job opportunities
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117" alt="Quote"/>
+  
+  <p><strong>Last Updated:</strong> April 2026</p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=BC13FE&center=true&vCenter=true&width=500&lines=Keep+building.+Keep+learning.+Keep+shipping." alt="Closing Message" />
 </div>
